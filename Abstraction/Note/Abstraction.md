@@ -18,6 +18,7 @@ A Class can decide which data member will be visible to outside world and which 
 
 ### Access specifiers
 ->Members declared as public in a class, can be accessed from anywhere in the program.
+
 ->Members declared as private in a class, can be accessed only from within the class. They are not allowed to be accessed from any part of code outside the class.
 
 
