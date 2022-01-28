@@ -23,5 +23,5 @@ A Class can decide which data member will be visible to outside world and which 
 
 ## Abstraction in Header files
 ### Example
-he pow() method present in math.h header file.
+the pow() method present in math.h header file.
 Whenever we need to calculate power of a number, we simply call the function pow() present in the math.h header file and pass the numbers as arguments without knowing the underlying algorithm according to which the function is actually calculating power of numbers.
